@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on any fun project without tight deadlines, I leave those for work. 
 - 📫 How to reach me the social media that pointed you here would do the trick.
 
-I do not make a lot of side projects public, but I will leave always at least 1 to showcase coding skills or something I think its worth someone to clone and finish.
+I do not make a lot of side projects public, but I will leave always at least 1 for the sake of it.
 
 <!---
 CodingElec/CodingElec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
