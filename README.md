@@ -2,7 +2,7 @@
 - 👀 I’m interested in the Backend in general, mostly software architecture and Node / Typescript.
 - 💞️ I’m looking to collaborate on any fun project without tight deadlines, I leave those for work. 
 
-I do not make a lot of side projects public, but I will leave always at least 1 for the sake of it.
+I do not make a lot of side projects public, but I will always leave at least 1 for the sake of it.
 
 <!---
 CodingElec/CodingElec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
