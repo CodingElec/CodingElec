@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingElec, an electrical engineer who should be building transmission lines but likes coding too much.
-- 👀 I’m interested in the Backend in general, mostly software architecture and Node / Typescript.
-- 💞️ I’m looking to collaborate on any fun project without tight deadlines, I leave those for work. 
+- 👀 I’m interested in the Backend in general, mostly software architecture, Go and Node / Typescript.
+
 
 I do not make a lot of side projects public, but I will always leave at least 1 for the sake of it.
 
