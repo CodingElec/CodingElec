@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodingElec, an electrical engineer who should be building transmission lines but likes coding too much.
+- 👋 Hi, I’m an electrical engineer who should be building transmission lines but likes coding too much.
 - 👀 I’m interested in the Backend in general, mostly software architecture, Go and Node / Typescript.
 
 
